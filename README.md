@@ -20,7 +20,7 @@
 
 ## 2. Problema de diseño
 
-La Facultad coordina las tutorías mediante WhatsApp, hojas de cálculo y agendas personales. El proceso actual tarda en promedio **14 minutos y 9 mensajes** hasta obtener una confirmación (E4). Además, se registraron **4 confirmaciones ambiguas y 3 intentos de elegir horarios ocupados** en 12 solicitudes (E3), y hay estudiantes que olvidan la fecha porque la confirmación queda mezclada con otros mensajes (E5).
+La Facultad coordina las tutorías mediante WhatsApp, hojas de cálculo y agendas personales. El proceso actual tarda en promedio **14 minutos y 9 mensajes** hasta obtener una confirmación (E4). Además, se registraron **4 confirmaciones ambiguas y 3 intentos de elegir horarios ocupados** en 12 solicitudes (E3), y hay estudiantes que olvidan la fecha porque la confirmación queda mezclada con otros mensajes.
 
 **Pregunta de diseño:** ¿Cómo permitir que un estudiante reserve o reprograme una tutoría desde un teléfono, con claridad, bajo esfuerzo cognitivo, prevención de errores y acceso mediante teclado o tecnologías de apoyo?
 
@@ -30,17 +30,16 @@ La Facultad coordina las tutorías mediante WhatsApp, hojas de cálculo y agenda
 
 ### Mapa de evidencias
 
-| Actividad | Evidencia | Ubicación |
-| --- | --- | --- |
-| Fundamentos de IHC | Matriz humano-sistema con E1 a E10 | `docs/01_matriz_ihc.pdf` |
-| Usabilidad y accesibilidad | Indicadores, metas y cuatro decisiones POUR | `docs/02_usabilidad_accesibilidad.pdf` |
-| DCU | Contexto, persona, escenario, journey map y cinco requisitos | `docs/03_dcu_contexto.pdf` |
-| Decisiones de diseño | Metáforas, affordance, mapeo, Gestalt y guía de estilo | `docs/04_decisiones_diseno.pdf` |
-| Prototipo | Cuatro pantallas y enlace navegable | `prototipo/` |
-| Prueba e iteración | Tarea, medidas, hallazgo, antes y después | `evaluacion/prueba_iteracion.md` |
-| Trabajo colaborativo | Issues, ramas, commits, PR y revisiones | Pestañas *Issues*, *Pull requests* y *Commits* |
+| Actividad                  | Evidencia                                                    |
+| -------------------------- | ------------------------------------------------------------ |
+| Fundamentos de IHC         | Matriz humano-sistema                                        |
+| Usabilidad y accesibilidad | Indicadores, metas y cuatro decisiones POUR                  |
+| DCU                        | Contexto, persona, escenario, journey map y cinco requisitos |
+| Decisiones de diseño       | Metáforas, affordance, mapeo, Gestalt y guía de estilo       |
+| Prototipo                  | Cuatro pantallas y enlace navegable                          |
+| Prueba e iteración         | Tarea, medidas, hallazgo, antes y después                    |
+| Trabajo colaborativo       | Issues, ramas, commits, PR y revisiones                      |
 
----
 
 ## 5. Resumen de la iteración
 
@@ -53,7 +52,7 @@ La Facultad coordina las tutorías mediante WhatsApp, hojas de cálculo y agenda
 | Tiempo total aproximado | ≈ 2:10 (proceso actual: 14 min, E4) |
 | Errores observados | 0 |
 | Satisfacción | 7 de 7 |
-| Hallazgo principal | El flujo se comprendió sin ayuda; al reprogramar, la pantalla no mostraba el horario anterior ni permitía deshacer (E5, E10) |
+| Hallazgo principal | El flujo se comprendió sin ayuda; al reprogramar, la pantalla no mostraba el horario anterior ni permitía deshacer |
 
 **Mejora aplicada:** en la Pantalla 4 se agregó el mensaje "Tutoría reprogramada", un resumen "Antes / Ahora" y el botón "Deshacer cambio".
 
