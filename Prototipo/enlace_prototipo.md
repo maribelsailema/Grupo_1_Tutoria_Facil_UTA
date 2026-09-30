@@ -12,7 +12,14 @@
 3. Resumen: revisa los datos y pulsa "Confirmar tutoría".
 4. Confirmada: ve el estado inequívoco y puede pulsar "Cambiar horario".
 
+## Decisiones visibles
+- Prevención de errores: los horarios ocupados no son accionables (E3).
+- Corrección antes de confirmar: "Volver y cambiar horario" (E10).
+- Retroalimentación: estados de carga, error y confirmación con texto (E3, E5, E8).
+- Accesibilidad: estados con texto y no solo color; foco visible; nombres accesibles (E2, E9).
 
 ## Capturas
 ![Inicio](Capturas/01_inicio_busqueda.jpg)
 ![Docente y horario](Capturas/02_docente_horario.jpg)
+![Resumen](Capturas/03_resumen_confirmacion.jpg)
+![Confirmada](Capturas/04_confirmada_reprograma.jpg)
