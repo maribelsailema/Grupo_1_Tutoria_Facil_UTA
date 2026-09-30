@@ -60,7 +60,7 @@ La tarea comienza cuando el estudiante desea buscar un horario y termina cuando 
 ## 🔗 3. Enlaces del proyecto
 
 - 🎨 **Tablero FigJam:** [Ver tablero en FigJam](docs/) *(actualizar con el enlace público definitivo)*
-- 📱 **Prototipo interactivo (Figma / Penpot):** [Ver prototipo](prototipo/enlace_prototipo.md)
+- 📱 **Prototipo interactivo (Figma / Penpot):** [Ver prototipo](https://app.visily.ai/projects/a97294e6-8e73-4edd-b6f6-c3235bb2de9c/boards/2730988/presenter?play-mode=All+screens)
 - 💻 **Repositorio GitHub:** [Grupo_1_Tutoria_Facil_UTA](https://github.com/maribelsailema/Grupo_1_Tutoria_Facil_UTA)
 
 > **Verificación:** Antes de la entrega final, todos los enlaces deben comprobarse en una ventana privada para verificar que puedan abrirse sin solicitar permisos adicionales.
