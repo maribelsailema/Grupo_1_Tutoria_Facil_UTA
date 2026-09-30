@@ -26,20 +26,6 @@ La Facultad coordina las tutorías mediante WhatsApp, hojas de cálculo y agenda
 
 **Alcance:** desde que el estudiante busca un horario hasta que obtiene una confirmación comprensible, más la ruta para reprogramar. No incluye autenticación, reportes ni administración de usuarios.
 
----
-
-## 3. Enlaces
-
-| Recurso | Enlace |
-| --- | --- |
-| Repositorio | `https://github.com/maribelsailema/Grupo_1_Tutoria_Facil_UTA` |
-| Tablero FigJam | `[URL de FigJam con acceso "Cualquier persona con el enlace puede ver"]` |
-| PDF del tablero FigJam | [`docs/tablero_figjam_completo.pdf`](docs/tablero_figjam_completo.pdf) |
-| Prototipo navegable (Figma/Penpot) | `[URL del prototipo con acceso de solo lectura]` (ver [`prototipo/enlace_prototipo.md`](prototipo/enlace_prototipo.md)) |
-| Prueba e iteración | [`test/prueba_iteracion.md`](evaluacion/prueba_iteracion.md) |
-
-
----
 
 
 ### Mapa de evidencias
@@ -76,7 +62,6 @@ La Facultad coordina las tutorías mediante WhatsApp, hojas de cálculo y agenda
 | Pantalla afectada | Pantalla 4 | Pantalla 4 |
 | Resultado | El cambio se reflejaba sin resumen ni opción de deshacer | Cambio explícito con "Antes / Ahora" y recuperación con un clic (verificación teórica) |
 
-Detalle completo en [`evaluacion/prueba_iteracion.md`](evaluacion/prueba_iteracion.md).
 
 ---
 
